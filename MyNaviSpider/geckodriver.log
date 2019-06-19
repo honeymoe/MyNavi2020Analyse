@@ -1,0 +1,259 @@
+1556272053892	mozrunner::runner	INFO	Running command: "C:\\Program Files\\RunningCheese\\Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofile.MDTtY44F44vQ"
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Program Files\RunningCheese\Cache\LocalAppData\Temp\Fx\openvr\openvrpaths.vrpath
+1556272056260	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Program Files\RunningCheese\Cache\LocalAppData\Temp\Fx\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Program Files\RunningCheese\Cache\LocalAppData\Temp\Fx\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Program Files\RunningCheese\Cache\LocalAppData\Temp\Fx\openvr\openvrpaths.vrpath
+1556272057976	Marionette	INFO	Listening on port 52123
+1556272058244	Marionette	WARN	TLS certificate errors will be ignored for this session
+1556272303947	mozrunner::runner	INFO	Running command: "C:\\Program Files\\RunningCheese\\Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofile.Ep9N9Z0u0RMT"
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Program Files\RunningCheese\Cache\LocalAppData\Temp\Fx\openvr\openvrpaths.vrpath
+1556272304630	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Program Files\RunningCheese\Cache\LocalAppData\Temp\Fx\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Program Files\RunningCheese\Cache\LocalAppData\Temp\Fx\openvr\openvrpaths.vrpath
+1556272305816	Marionette	INFO	Listening on port 52366
+Unable to read VR Path Registry from C:\Program Files\RunningCheese\Cache\LocalAppData\Temp\Fx\openvr\openvrpaths.vrpath
+1556272306066	Marionette	WARN	TLS certificate errors will be ignored for this session
+1556272392758	mozrunner::runner	INFO	Running command: "C:\\Program Files\\RunningCheese\\Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofile.rviUlZpBAHsF"
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Program Files\RunningCheese\Cache\LocalAppData\Temp\Fx\openvr\openvrpaths.vrpath
+1556272393470	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Program Files\RunningCheese\Cache\LocalAppData\Temp\Fx\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Program Files\RunningCheese\Cache\LocalAppData\Temp\Fx\openvr\openvrpaths.vrpath
+1556272394698	Marionette	INFO	Listening on port 52473
+Unable to read VR Path Registry from C:\Program Files\RunningCheese\Cache\LocalAppData\Temp\Fx\openvr\openvrpaths.vrpath
+1556272394902	Marionette	WARN	TLS certificate errors will be ignored for this session
+1556272433192	mozrunner::runner	INFO	Running command: "C:\\Program Files\\RunningCheese\\Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofile.K6BoLRllS3vf"
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Program Files\RunningCheese\Cache\LocalAppData\Temp\Fx\openvr\openvrpaths.vrpath
+1556272433908	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Program Files\RunningCheese\Cache\LocalAppData\Temp\Fx\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Program Files\RunningCheese\Cache\LocalAppData\Temp\Fx\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Program Files\RunningCheese\Cache\LocalAppData\Temp\Fx\openvr\openvrpaths.vrpath
+1556272435192	Marionette	INFO	Listening on port 52542
+1556272435314	Marionette	WARN	TLS certificate errors will be ignored for this session
+1556272494717	mozrunner::runner	INFO	Running command: "C:\\Program Files\\RunningCheese\\Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofile.dpwfwJDXsa6w"
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Program Files\RunningCheese\Cache\LocalAppData\Temp\Fx\openvr\openvrpaths.vrpath
+1556272495436	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Program Files\RunningCheese\Cache\LocalAppData\Temp\Fx\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Program Files\RunningCheese\Cache\LocalAppData\Temp\Fx\openvr\openvrpaths.vrpath
+1556272497020	Marionette	INFO	Listening on port 52629
+Unable to read VR Path Registry from C:\Program Files\RunningCheese\Cache\LocalAppData\Temp\Fx\openvr\openvrpaths.vrpath
+1556272497440	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 3688, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 3688, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1556272552304	mozrunner::runner	INFO	Running command: "C:\\Program Files\\RunningCheese\\Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofile.JZ7mrJJVC3hD"
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Program Files\RunningCheese\Cache\LocalAppData\Temp\Fx\openvr\openvrpaths.vrpath
+1556272553638	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Program Files\RunningCheese\Cache\LocalAppData\Temp\Fx\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Program Files\RunningCheese\Cache\LocalAppData\Temp\Fx\openvr\openvrpaths.vrpath
+1556272555292	Marionette	INFO	Listening on port 52824
+1556272555524	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Program Files\RunningCheese\Cache\LocalAppData\Temp\Fx\openvr\openvrpaths.vrpath
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+[Parent 15928, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 15928, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+1556333690148	mozrunner::runner	INFO	Running command: "C:\\Program Files\\RunningCheese\\Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofile.HxQzdyNJmIny"
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Program Files\RunningCheese\Cache\LocalAppData\Temp\Fx\openvr\openvrpaths.vrpath
+1556333692988	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Program Files\RunningCheese\Cache\LocalAppData\Temp\Fx\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Program Files\RunningCheese\Cache\LocalAppData\Temp\Fx\openvr\openvrpaths.vrpath
+1556333695212	Marionette	INFO	Listening on port 50531
+1556333695650	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Program Files\RunningCheese\Cache\LocalAppData\Temp\Fx\openvr\openvrpaths.vrpath
+1556333867191	mozrunner::runner	INFO	Running command: "C:\\Program Files\\RunningCheese\\Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofile.x03g4IyjMlnc"
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Program Files\RunningCheese\Cache\LocalAppData\Temp\Fx\openvr\openvrpaths.vrpath
+1556333868526	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Program Files\RunningCheese\Cache\LocalAppData\Temp\Fx\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Program Files\RunningCheese\Cache\LocalAppData\Temp\Fx\openvr\openvrpaths.vrpath
+1556333870246	Marionette	INFO	Listening on port 50732
+1556333870414	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Program Files\RunningCheese\Cache\LocalAppData\Temp\Fx\openvr\openvrpaths.vrpath
+[Child 6560, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8072, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10428, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10428, Chrome_ChildThre[Parent 8072, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12224, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12224, Chrome_Ch1556335721806	mozrunner::runner	INFO	Running command: "C:\\Program Files\\RunningCheese\\Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofile.H5lOjQwRypmV"
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Program Files\RunningCheese\Cache\LocalAppData\Temp\Fx\openvr\openvrpaths.vrpath
+1556335723138	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Program Files\RunningCheese\Cache\LocalAppData\Temp\Fx\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Program Files\RunningCheese\Cache\LocalAppData\Temp\Fx\openvr\openvrpaths.vrpath
+1556335724436	Marionette	INFO	Listening on port 52843
+Unable to read VR Path Registry from C:\Program Files\RunningCheese\Cache\LocalAppData\Temp\Fx\openvr\openvrpaths.vrpath
+1556335724574	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 14016, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14016, Chrome_ChildThread] [Parent 7296, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3224, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3224, Chrome_ChildThread] WARNI[Child 6612, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6612, Chrome_Chi1556338049205	mozrunner::runner	INFO	Running command: "C:\\Program Files\\RunningCheese\\Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofile.yJQvmRUjXb5W"
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Program Files\RunningCheese\Cache\LocalAppData\Temp\Fx\openvr\openvrpaths.vrpath
+1556338050544	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Program Files\RunningCheese\Cache\LocalAppData\Temp\Fx\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Program Files\RunningCheese\Cache\LocalAppData\Temp\Fx\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Program Files\RunningCheese\Cache\Loc1556338051806	Marionette	INFO	Listening on port 55198
+alAppData\Temp\Fx\openvr\openvrpaths.vrpath
+1556338051928	Marionette	WARN	TLS certificate errors will be ignored for this session
+1556338156818	mozrunner::runner	INFO	Running command: "C:\\Program Files\\RunningCheese\\Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofile.19prfDJponmi"
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Program Files\RunningCheese\Cache\LocalAppData\Temp\Fx\openvr\openvrpaths.vrpath
+1556338158122	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Program Files\RunningCheese\Cache\LocalAppData\Temp\Fx\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Program Files\RunningCheese\Cache\LocalAppData\Temp\Fx\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Program Files\RunningCheese\Cache\LocalAppData\Temp\Fx\openvr\openvrpaths.vrpath
+1556338159394	Marionette	INFO	Listening on port 55329
+1556338159540	Marionette	WARN	TLS certificate errors will be ignored for this session
+1556338616496	mozrunner::runner	INFO	Running command: "C:\\Program Files\\RunningCheese\\Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofile.3HDvVHeW4vS0"
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Program Files\RunningCheese\Cache\LocalAppData\Temp\Fx\openvr\openvrpaths.vrpath
+1556338617850	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Program Files\RunningCheese\Cache\LocalAppData\Temp\Fx\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Program Files\RunningCheese\Cache\LocalAppData\Temp\Fx\openvr\openvrpaths.vrpath
+1556338619354	Marionette	INFO	Listening on port 55816
+Unable to read VR Path Registry from C:\Program Files\RunningCheese\Cache\LocalAppData\Temp\Fx\openvr\openvrpaths.vrpath
+1556338619718	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 11984, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14592, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11984, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11780, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11780, Chrome_ChildThr[Child 2840, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2840, Chrome_Chi
